@@ -442,4 +442,9 @@ footer .flex ul li {
         width: 100%;
         text-align: center;
     }
+    #section1 {
+        padding:100px 50px;
+    }
+    footer{
+        padding: 50px 10px;
 }
